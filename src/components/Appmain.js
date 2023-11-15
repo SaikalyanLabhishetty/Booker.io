@@ -1,7 +1,7 @@
 import React from 'react'
 import Appheader from './Appheader'
 import { useTypewriter, Cursor } from 'react-simple-typewriter'
-import Carousel from 'react-elastic-carousel';
+import Carousel from '@itseasy21/react-elastic-carousel';
 import { locations,breakpoints,property,breakpoints_2 } from './export'
 
 import './Appmain.css'
