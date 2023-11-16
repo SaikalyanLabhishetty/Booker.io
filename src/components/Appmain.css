@@ -21,23 +21,24 @@
 .slider > h1{
     color: white;
     text-align: center;
-    margin-top: 3rem;
+    margin-top: 2rem;
 }
-.slider-2 > h1{
+.slider-2 > h1 {
     color: white;
     text-align: center;
-    margin-top: 3rem;
-}
-.carousel {
-    color: white;
     margin-top: 2rem;
-    margin-bottom: 3rem;
 }
-.place_images{
-    height:10rem;
-    width:15rem;
-    border-radius: 1rem;
+.wrapper-class img{
+    height: 10rem;
+    margin: 3rem 3rem ;
+    width: 100%;
 }
+.wrapper-class-1 > img {
+    height: 15rem;
+    margin: 3rem 3rem ;
+    width: 25rem;   
+}
+
 
 @media (max-width:768px){
     .section-1{
